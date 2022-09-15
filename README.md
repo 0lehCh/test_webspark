@@ -1,2 +1,3 @@
 # test_webspark
-task_for_flutter
+
+The task does not implement the POST method of sending results, only local display
